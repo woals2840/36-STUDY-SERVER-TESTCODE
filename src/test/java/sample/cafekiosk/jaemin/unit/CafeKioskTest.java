@@ -8,10 +8,10 @@ import java.time.LocalDateTime;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 
-import sample.cafekiosk.unit.CafeKiosk;
-import sample.cafekiosk.unit.beverages.Americano;
-import sample.cafekiosk.unit.beverages.Latte;
-import sample.cafekiosk.unit.order.Order;
+import sopt.study.testcode.jaemin.spring.unit.CafeKiosk;
+import sopt.study.testcode.jaemin.spring.unit.beverages.Americano;
+import sopt.study.testcode.jaemin.spring.unit.beverages.Latte;
+import sopt.study.testcode.jaemin.spring.unit.order.Order;
 
 class CafeKioskTest {
 

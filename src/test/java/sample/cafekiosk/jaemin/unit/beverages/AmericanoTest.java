@@ -1,12 +1,6 @@
 package sample.cafekiosk.jaemin.unit.beverages;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 import static org.assertj.core.api.Assertions.assertThat;
-
-import org.junit.jupiter.api.Test;
-
-import sample.cafekiosk.unit.CafeKiosk;
 
 class AmericanoTest {
 

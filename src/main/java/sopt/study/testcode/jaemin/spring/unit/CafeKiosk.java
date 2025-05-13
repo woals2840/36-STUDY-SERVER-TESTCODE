@@ -1,4 +1,4 @@
-package sample.cafekiosk.unit;
+package sopt.study.testcode.jaemin.spring.unit;
 
 import java.time.LocalDateTime;
 import java.time.LocalTime;
@@ -6,8 +6,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 import lombok.Getter;
-import sample.cafekiosk.unit.beverages.Beverage;
-import sample.cafekiosk.unit.order.Order;
+import sopt.study.testcode.jaemin.spring.unit.beverages.Beverage;
+import sopt.study.testcode.jaemin.spring.unit.order.Order;
 
 @Getter
 public class CafeKiosk {

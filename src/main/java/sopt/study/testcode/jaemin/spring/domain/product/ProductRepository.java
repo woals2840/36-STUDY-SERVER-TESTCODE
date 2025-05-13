@@ -1,4 +1,4 @@
-package sample.cafekiosk.spring.domain.product;
+package sopt.study.testcode.jaemin.spring.domain.product;
 
 import java.util.List;
 

@@ -1,10 +1,10 @@
-package sample.cafekiosk.unit;
+package sopt.study.testcode.jaemin.spring.unit;
 
 import java.time.LocalDateTime;
 
-import sample.cafekiosk.unit.beverages.Americano;
-import sample.cafekiosk.unit.beverages.Latte;
-import sample.cafekiosk.unit.order.Order;
+import sopt.study.testcode.jaemin.spring.unit.beverages.Americano;
+import sopt.study.testcode.jaemin.spring.unit.beverages.Latte;
+import sopt.study.testcode.jaemin.spring.unit.order.Order;
 
 public class CafeKioskRunner {
 

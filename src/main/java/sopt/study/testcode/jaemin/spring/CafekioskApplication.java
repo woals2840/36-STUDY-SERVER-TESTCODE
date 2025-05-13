@@ -1,4 +1,4 @@
-package sample.cafekiosk.spring;
+package sopt.study.testcode.jaemin.spring;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

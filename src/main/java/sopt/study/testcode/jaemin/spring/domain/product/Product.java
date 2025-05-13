@@ -1,4 +1,4 @@
-package sample.cafekiosk.spring.domain.product;
+package sopt.study.testcode.jaemin.spring.domain.product;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;
@@ -10,7 +10,7 @@ import lombok.AccessLevel;
 import lombok.Builder;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
-import sample.cafekiosk.spring.domain.BaseTimeEntity;
+import sopt.study.testcode.jaemin.spring.domain.BaseTimeEntity;
 
 @Getter
 @NoArgsConstructor(access = AccessLevel.PROTECTED)

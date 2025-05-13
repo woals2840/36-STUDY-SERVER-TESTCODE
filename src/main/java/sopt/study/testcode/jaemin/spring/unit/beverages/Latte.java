@@ -1,4 +1,4 @@
-package sample.cafekiosk.unit.beverages;
+package sopt.study.testcode.jaemin.spring.unit.beverages;
 
 public class Latte implements Beverage {
 	@Override

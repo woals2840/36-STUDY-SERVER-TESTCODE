@@ -1,4 +1,4 @@
-package sample.cafekiosk.spring.domain;
+package sopt.study.testcode.jaemin.spring.domain;
 
 import java.time.LocalDateTime;
 

@@ -1,10 +1,10 @@
-package sample.cafekiosk.spring.api.service.product.response;
+package sopt.study.testcode.jaemin.spring.api.service.product.response;
 
 import lombok.Builder;
 import lombok.Getter;
-import sample.cafekiosk.spring.domain.product.Product;
-import sample.cafekiosk.spring.domain.product.ProductSellingStatus;
-import sample.cafekiosk.spring.domain.product.ProductType;
+import sopt.study.testcode.jaemin.spring.domain.product.Product;
+import sopt.study.testcode.jaemin.spring.domain.product.ProductSellingStatus;
+import sopt.study.testcode.jaemin.spring.domain.product.ProductType;
 
 @Getter
 public class ProductResponse {

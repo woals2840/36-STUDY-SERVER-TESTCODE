@@ -1,11 +1,11 @@
-package sample.cafekiosk.unit.order;
+package sopt.study.testcode.jaemin.spring.unit.order;
 
 import java.time.LocalDateTime;
 import java.util.List;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
-import sample.cafekiosk.unit.beverages.Beverage;
+import sopt.study.testcode.jaemin.spring.unit.beverages.Beverage;
 
 @Getter
 @RequiredArgsConstructor
